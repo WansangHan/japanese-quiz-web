@@ -1,0 +1,16 @@
+{
+  "name": "일본어 문자 학습",
+  "short_name": "일본어",
+  "description": "간격반복 기반 히라가나·가타카나·한자 학습",
+  "start_url": "/japanese-quiz-web/",
+  "scope": "/japanese-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#DC2626",
+  "background_color": "#DC2626",
+  "lang": "ko",
+  "icons": [
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
